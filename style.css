@@ -19,6 +19,7 @@ h1{
 input{
     height: 40px;
     font-size: 20px;
+
 }
 #campo-1{
     margin-top: 10px;
@@ -40,7 +41,7 @@ input{
     border-radius: 20px;
     border: none;
     color: #ffff;
-    margin-left: 50px;  
+    margin-left: 40px;  
 }
 #formulario input[type=submit]:hover{
     background-color:#4B0082;
@@ -51,5 +52,8 @@ input{
         margin-top: 600px;
         margin-left:350px;
         width: 300px;
+    }
+    input{
+        height: 30px;
     }
 }
